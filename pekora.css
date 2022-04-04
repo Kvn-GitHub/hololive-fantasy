@@ -5,7 +5,7 @@ html {
 
 body {
     margin: 0;
-    background: linear-gradient(180deg, rgb(182, 159, 97), rgb(128, 89, 24)) fixed;
+    background: linear-gradient(180deg, rgb(189, 238, 239), rgb(40, 141, 222)) fixed;
     height: 100%;
     overflow-anchor: none;
 }
@@ -59,7 +59,7 @@ body {
     background: rgb(29, 29, 29);
     border: double 0.2em transparent;
     border-radius: 0.5em;
-    background-image: linear-gradient(rgb(26, 26, 26), rgb(26, 26, 26)), linear-gradient(to bottom, orange, gold);
+    background-image: linear-gradient(rgb(26, 26, 26), rgb(26, 26, 26)), linear-gradient(to bottom, rgb(189, 238, 239), rgb(40, 141, 222));
     background-origin: border-box;
     background-clip: content-box, border-box;
 }
