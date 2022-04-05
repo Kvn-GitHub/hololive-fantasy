@@ -272,7 +272,7 @@ body {
     pointer-events: auto;
 }
 
-.gimmeFood {
+.gimmeRushia {
     position: relative;
     color: white;
     background: black;
@@ -284,26 +284,26 @@ body {
 
 }
 
-#yuyuko {
+#rushia {
     position: absolute;
     width: 5em;
     overflow: hidden;
     top: 0;
 }
 
-#shitpost:hover>.gimmeFood {
+#shitpost:hover>.gimmeRushia {
     transition: 130s linear;
     top: 14.5em;
     font-size: 10em;
     animation: appear 4s 1s forwards;
 }
 
-#yuyuko:hover {
+#rushia:hover {
     transition: 130s linear;
     width: 190em;
 }
 
-#yuyukoTitle {
+#rushiaTitle {
     position: absolute;
     width: 100%;
     font-family: "Norse";
@@ -319,7 +319,7 @@ body {
     pointer-events: none;
 }
 
-#shitpost:hover>#yuyukoTitle {
+#shitpost:hover>#rushiaTitle {
     opacity: 1;
     transition: 2s;
     background: rgb(182, 159, 97);
